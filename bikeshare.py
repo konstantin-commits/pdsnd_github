@@ -235,6 +235,7 @@ def descriptive_stats(df):
         desc_stats = df.describe()
         print(desc_stats)
 
+# main function that applies the functions
 def main():
     while True:
         city, month, day = get_filters()
@@ -250,6 +251,7 @@ def main():
         restart = input('\nWould you like to restart? (y/n): \n')
         if restart.lower() != 'y':
             break
+
 
 if __name__ == "__main__":
 	main()
