@@ -216,7 +216,7 @@ def raw_data(df):
 
 def more_raw_data(df):
     """Displays more raw data."""
-    i = 0
+    i = 5
     while True:
         more_data = input('Would you like to see more data? (y/n): ').lower()
         if more_data != 'y':
