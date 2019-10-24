@@ -12,10 +12,10 @@ First an existing remote repository is forked from the developer udacity. Files 
 In a next step the branch documentation will be added and the project documentation will be done in the README.md file (look around). Improvements will be made to the docstrings the file. Commits are being pushed to the remote repository.
 
 3. Section 3
-A further branch refactoring will be added to modify bikeshare.py file.
+A further branch refactoring will be added to modify bikeshare.py file to improve the efficiency of the code.
 
 4. Section 4
-The branches docuemntation and refactoring are merged to the master branch and pushed to the remote repository.
+The branches documentation and refactoring are merged to the master branch and pushed to the remote repository.
 
 ### Files used
 bikeshare.py
